@@ -10,7 +10,7 @@ def square(x,y):
     pass
 def multiply(x,y):
     return x*y
-def multiply(x,y):
+def divison(x,y):
     return x/y
 def multiply(x,y):
     return x+y
